@@ -1,0 +1,19 @@
+body {
+    background-color:powderblue ;
+   }
+
+   .btn {
+      border-radius: 200px;
+      height: 200px;
+   }
+
+   h1,h3 {
+      color: greenyellow;
+   }
+
+   hr {
+    background-color: white;
+    border-left-style: dotted none none;
+    height: 0px;
+    width: 35px;
+   }
